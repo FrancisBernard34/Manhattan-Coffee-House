@@ -6,7 +6,7 @@ Welcome to the repository for **Manhattan Coffee House**! This is a responsive l
 ### Preview of the Project
 Check out the animation below to see the final look of the website:
 
-![Site Preview](https://i.ibb.co/5RMBfTv/coffe-house.gif)
+<a href="https://francisbernard34.github.io/Manhattan-Coffee-House/"><img src="https://i.ibb.co/DRV5S4k/coffe-house.gif" alt="coffe-house" border="0" /></a>
 
 ### Live Version
 [Visit the live site here!](https://francisbernard34.github.io/Manhattan-Coffee-House/)
@@ -43,7 +43,7 @@ To view or edit this project on your local machine:
 ---
 
 ### Acknowledgments
-This project was developed as part of the [Devmedia Front-End Course](https://www.devmedia.com/), with a focus on foundational web development skills.
+This project was developed as part of the [Devmedia Front-End Course](https://www.devmedia.com.br/front-end/), with a focus on foundational web development skills.
 
 ---
 

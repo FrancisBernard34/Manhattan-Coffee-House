@@ -6,7 +6,7 @@ Welcome to the repository for **Manhattan Coffee House**! This is a responsive l
 ### Preview of the Project
 Check out the animation below to see the final look of the website:
 
-![Preview](https://i.ibb.co/DRV5S4k/coffe-house.gif)
+![Preview](https://github.com/FrancisBernard34/Manhattan-Coffee-House/blob/main/project%20preview.gif)
 
 ### Live Version
 [Visit the live site here!](https://francisbernard34.github.io/Manhattan-Coffee-House/)
